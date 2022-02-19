@@ -13,3 +13,6 @@ Python modules used:
   -> numpy
   -> pandas
   -> re  (regular expressions)
+
+Training data accuracy = 98.78673196794301 %
+Test data accuracy = 97.90739091718611 %
